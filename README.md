@@ -1,3 +1,4 @@
+![LinkedIn Banner](./github-header-banner-se.png)
 ## Hi there, I'm Romanna 👋
 
 <!--
