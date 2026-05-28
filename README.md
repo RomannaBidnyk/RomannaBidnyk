@@ -21,7 +21,7 @@ Software Engineer with experience in **full-stack development** and test automat
 Currently contributing to [MyFriendBen](https://www.myfriendben.org/) at Code the Dream Labs — a civic tech platform helping 150K+ families access public benefits across multiple states.
 
 ## 🛠️ Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=python,django,ts,react,nodejs,java,spring,postgres,docker,git)](https://skillicons.dev)
+
 ### Languages
 
 Python • TypeScript • JavaScript • Java • SQL
@@ -32,19 +32,21 @@ React • Tailwind CSS • HTML • CSS
 
 ### Backend
 
-Node.js • Express.js • Django • SpringBoot • REST APIs
+Node.js • Express.js • Django • Spring Boot • REST APIs
 
 ### Databases & Tools
 
 PostgreSQL • MongoDB • Git • Docker • Terraform • Metabase • dbt
 
+[![My Skills](https://skillicons.dev/icons?i=python,django,ts,react,nodejs,java,spring,postgres,docker,git)](https://skillicons.dev)
+
 ## 📊 Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=RomannaBidnyk&theme=dark&background=000000)](https://git.io/streak-stats&theme=radical)
+![Github Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=RomannaBidnyk&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RomannaBidnyk&layout=compact&theme=radical)
 
-![Github Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=RomannaBidnyk&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=RomannaBidnyk&theme=radical)
 
 ## 📫 Connect With Me
 
