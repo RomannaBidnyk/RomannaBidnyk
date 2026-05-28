@@ -21,6 +21,7 @@ Software Engineer with experience in **full-stack development** and test automat
 Currently contributing to [MyFriendBen](https://www.myfriendben.org/) at Code the Dream Labs — a civic tech platform helping 150K+ families access public benefits across multiple states.
 
 ## 🛠️ Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=python,django,ts,react,nodejs,java,spring,postgres,docker,git)](https://skillicons.dev)
 ### Languages
 
 Python • TypeScript • JavaScript • Java • SQL
@@ -39,7 +40,7 @@ PostgreSQL • MongoDB • Git • Docker • Terraform • Metabase • dbt
 
 ## 📊 Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=RomannaBidnyk&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=RomannaBidnyk&theme=dark&background=000000)](https://git.io/streak-stats&theme=radical)
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RomannaBidnyk&layout=compact&theme=radical)
 
